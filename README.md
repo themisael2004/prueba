@@ -31,7 +31,7 @@ Aplicación de consola que permite <em>[describe aquí qué hace tu aplicación]
 
 <ol>
   <li>📥 Clonar el repositorio:
-    <pre><code>git clone https://github.com/usuario/repositorio.git</code></pre>
+    <pre><code>git clone https://github.com/themisael2004/proyecto-final-java.git</code></pre>
   </li>
   <li>🛠️ Compilar el proyecto con tu IDE preferido o desde consola:
     <pre><code>javac NombreDelArchivoPrincipal.java</code></pre>
@@ -53,8 +53,3 @@ Aplicación de consola que permite <em>[describe aquí qué hace tu aplicación]
 </ul>
 
 ---
-
-## 📄 Licencia
-
-Este proyecto no cuenta con una licencia específica. Puedes adaptarlo según tus necesidades o agregar una desde <a href="https://choosealicense.com/" target="_blank">ChooseALicense.com</a>.
-
