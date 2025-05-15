@@ -13,7 +13,7 @@
   <li>💻 IDEs utilizados:</li>
   <ul>
     <li><img src="https://img.icons8.com/color/20/intellij-idea.png"/> IntelliJ IDEA</li>
-    <li><img src="https://img.icons8.com/color/20/netbeans.png"/> NetBeans</li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="20"/> NetBeans</li>
     <li><img src="https://img.icons8.com/color/20/eclipse.png"/> Eclipse</li>
     <li><img src="https://img.icons8.com/color/20/visual-studio-code-2019.png"/> Visual Studio Code</li>
   </ul>
